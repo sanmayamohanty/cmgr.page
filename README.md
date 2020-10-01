@@ -10,7 +10,15 @@ This guide is aimed at being the single stop solution for everything that a comm
 
 This guide is an effort to assimilate a lot of lessons that community professionals around the world have learned from building and engaging communities -- all in a single CMGR Playbook.
 
-**Disclaimer:** This is a living guide and is therefore never finished. It's an ongoing project that we are always trying to update and improve as we and the global community of CMGR professionals learn and evolve. Try everything, contribute your learnings back to this guide, or suggest topics that we should cover by reaching out to us.
+**Disclaimer:** This is a living guide and is therefore never finished. It's an ongoing project that we are always trying to update and improve as we and the global community of CMGR professionals learn and evolve. 
+
+Try everything, contribute your learnings back to this guide, or suggest topics that we should cover by reaching out to us.
+
+
+
+## License
+
+This CMGR Guide is open-sourced under the [Creative Commons Attribution 4.0 International \(CC-BY 4.0\)](https://creativecommons.org/licenses/by/4.0/) license. See the license file [here](https://github.com/sanmayamohanty/cmgr.page/blob/master/LICENSE.md).
 
 
 
