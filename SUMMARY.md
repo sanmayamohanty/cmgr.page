@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [Why this Guide Exists?](overview/sd.md)
+* [Motivation behind the Guide](overview/sd.md)
 * [How to use this Guide?](overview/how-to-use-this-guide.md)
 
 ---
