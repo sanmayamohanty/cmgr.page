@@ -4,7 +4,7 @@ description: The Comprehensive CMGR Guide
 
 # Introduction
 
-**Welcome to the  CMGR Guide! This is a community initiative managed by Sanmaya Mohanty that contains the resources that Community Professionals will need in their journey of building communities and nurturing relationships.** 
+**Welcome to the  CMGR Guide! This is a community initiative managed by** [**Sanmaya Mohanty**](https://www.linkedin.com/in/sanmayamohanty/) **that contains the resources that Community Professionals will need in their journey of building communities and nurturing relationships.** 
 
 This guide is aimed at being the single stop solution for everything that a community professional might need in his journey of learning. This is also aimed towards people who want to start a career in community management and want to learn all the ins and outs of community management. 
 
