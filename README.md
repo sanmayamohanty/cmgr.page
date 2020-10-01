@@ -10,9 +10,13 @@ This guide is aimed at being the single stop solution for everything that a comm
 
 This guide is an effort to assimilate a lot of lessons that community professionals around the world have learned from building and engaging communities -- all in a single CMGR Playbook.
 
+\*\*\*\*
+
+{% hint style="info" %}
 **Disclaimer:** This is a living guide and is therefore never finished. It's an ongoing project that we are always trying to update and improve as we and the global community of CMGR professionals learn and evolve. 
 
-Try everything, contribute your learnings back to this guide, or suggest topics that we should cover by reaching out to us.
+Try everything, and contribute your learnings back to this guide, or suggest topics that we should cover. Please check our roadmap to know what we are working on. If you're interested in contributing towards this guide or suggesting topics, reach out to us.
+{% endhint %}
 
 
 
@@ -22,22 +26,7 @@ This CMGR Guide is open-sourced under the [Creative Commons Attribution 4.0 Inte
 
 
 
-```
-$ give me super-powers
-```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 
