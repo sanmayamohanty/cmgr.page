@@ -10,7 +10,7 @@ This guide is aimed at being the single stop solution for everything that a comm
 
 This guide is an effort to assimilate a lot of lessons that community professionals around the world have learned from building and engaging communities -- all in a single CMGR Playbook.
 
-\*\*\*\*
+
 
 {% hint style="info" %}
 **Disclaimer:** This is a living guide and is therefore never finished. It's an ongoing project that we are always trying to update and improve as we and the global community of CMGR professionals learn and evolve. 
