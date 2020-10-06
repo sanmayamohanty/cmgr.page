@@ -10,6 +10,10 @@ description: >-
 Since this guide is under creation, some of the topics are yet to be populated with content. 
 
 To make it easier for readers, I have marked the pages which are not yet completed with \[WIP\] tag: denoting work in progress.
+
+If you find any errors in the repository, kindly reachout so that it can be rectified.
+
+I would love to know your feedback on the guide.
 {% endhint %}
 
 
