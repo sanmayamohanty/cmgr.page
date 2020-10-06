@@ -2,12 +2,12 @@
 
 * [Introduction](README.md)
 
-## Getting Started <a id="overview"></a>
+## 📌 Getting Started <a id="overview"></a>
 
 * [motivation behind the Guide](overview/sd.md)
 * [How to use this Guide?](overview/how-to-use-this-guide.md)
 
-## Community Basics
+## 🏄🏻‍♂️Community Basics
 
 * [Overview](community-basics/overview.md)
 * [What is Community?](community-basics/tba-what-is-community.md)
@@ -16,20 +16,20 @@
 * [Traits of Great CMGRs](community-basics/traits-of-great-cmgrs.md)
 * [Real CMGR JDs and How to acquire those skills?](community-basics/real-cmgr-jds-and-how-to-acquire-those-skills.md)
 
-## BUSINESS OUTCOMES OF COMMUNITY
+## 🏦BUSINESS OUTCOMES OF COMMUNITY
 
 * [Overview](business-outcomes-of-community/overview.md)
 * [Why communities are necessary for businesses?](business-outcomes-of-community/why-communities-are-necessary-for-businesses.md)
 * [SPACEI Model](business-outcomes-of-community/spaces-model.md)
 
-## PSYCHOLOGY BEHIND COMMUNITY BUILDING
+## 🧠PSYCHOLOGY BEHIND COMMUNITY BUILDING
 
 * [Overview](psychology-behind-community-building/overview.md)
 * [Sense of Belongingness](psychology-behind-community-building/sense-of-belongingness.md)
 * [The Commitment Curve](psychology-behind-community-building/the-commitment-curve.md)
 * [Harnessing The Desire for Exclusivity](psychology-behind-community-building/harnessing-the-desire-for-exclusivity.md)
 
-## Community Strategies
+## 🏹Community Strategies
 
 * [Overview](community-strategies/overview.md)
 * [Business Need Identification](community-strategies/business-need-identification.md)
@@ -37,7 +37,7 @@
 * [\[WIP\] Creating a Launch Plan](community-strategies/creating-a-launch-plan.md)
 * [Defining Measurement Framework](community-strategies/defining-measurement-framework.md)
 
-## COMMUNITY METRICS
+## 🥇COMMUNITY METRICS
 
 * [Overview](community-metrics/overview.md)
 * [KPIs to Consider for Communities](community-metrics/kpis-to-consider-for-communities.md)
@@ -46,7 +46,7 @@
 * [Measuring Success of Communities](community-metrics/measuring-success-of-communities.md)
 * [\[WIP\] Creating a Community Dashboard](community-metrics/creating-a-community-dashboard.md)
 
-## ENGAGEMENT <a id="community-engagement"></a>
+## 👫ENGAGEMENT <a id="community-engagement"></a>
 
 * [Overview](community-engagement/overview.md)
 * [Creating a kick-ass Onboarding flow](community-engagement/p-creating-a-kickass-onboarding-flow/README.md)
@@ -54,7 +54,7 @@
 * [\[WIP\] Converting Newcomers to Active Members](community-engagement/converting-newcomers-to-active-members.md)
 * [\[WIP\] Gamification](community-engagement/gamification.md)
 
-## LAunching a new community
+## 🚀Launching a new community
 
 * [\[WIP\] Overview](launching-a-new-community/overview.md)
 * [\[WIP\] Establish Phase](launching-a-new-community/establish-phase.md)
