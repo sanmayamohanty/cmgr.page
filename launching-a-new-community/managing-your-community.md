@@ -4,8 +4,6 @@
 
 **Managing your community**
 
-[https://www.slideshare.net/partnerforce/community-engagement-best-practices-april-18-2016](https://www.slideshare.net/partnerforce/community-engagement-best-practices-april-18-2016)
-
 1. Having a promotion/ awareness plan
 
 from launch to ongoing management always have promotion/awareness plan.
