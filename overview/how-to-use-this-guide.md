@@ -26,7 +26,7 @@ If you are looking to know more about metrics then head over to:
 
 {% page-ref page="../psychology-behind-community-building/harnessing-the-desire-for-exclusivity.md" %}
 
-{% page-ref page="how-to-use-this-guide.md" %}
+{% page-ref page="../community-engagement/p-creating-a-kickass-onboarding-flow/" %}
 
 
 
