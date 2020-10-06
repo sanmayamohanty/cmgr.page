@@ -25,7 +25,7 @@
 ## 🧠PSYCHOLOGY BEHIND COMMUNITY BUILDING
 
 * [Overview](psychology-behind-community-building/overview.md)
-* [Sense of Belongingness](psychology-behind-community-building/sense-of-belongingness.md)
+* [Creating a Sense of Belongingness](psychology-behind-community-building/sense-of-belongingness.md)
 * [The Commitment Curve](psychology-behind-community-building/the-commitment-curve.md)
 * [Harnessing The Desire for Exclusivity](psychology-behind-community-building/harnessing-the-desire-for-exclusivity.md)
 

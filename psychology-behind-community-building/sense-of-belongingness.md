@@ -1,4 +1,4 @@
-# Sense of Belongingness
+# Creating a Sense of Belongingness
 
 Belonging means acceptance as a member or part.
 
