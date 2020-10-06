@@ -18,6 +18,6 @@ There are several ways in which a community provides cost reduction for the busi
 
 * **Customer Effort Surveys:** 
 
-  * In a question with [Adrian Speyer \(Head of Community, Vanilla Forums\)](https://www.linkedin.com/in/adrianspeyer/?originalSubdomain=ca) in the CMX Summit 2020, he told the benefits of Customer Effort Surveys.
+  * In a QnA session with [Adrian Speyer \(Head of Community, Vanilla Forums\)](https://www.linkedin.com/in/adrianspeyer/?originalSubdomain=ca) in the CMX Summit 2020, he told the benefits of Customer Effort Surveys.
   * You can run CES surveys, which are essentially pop-up surveys where you ask your users were they able to achieve what they wanted to achieve from their visit to your community support resources.
 
