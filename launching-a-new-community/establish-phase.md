@@ -30,7 +30,5 @@ Preparing a budget for an online community, business case as with any forecast a
 
 YOur budget should include both the cost and revenue sides of the ledger. You will probably be able to forecast costs with greater confidence than revenues.
 
-Executive sponsors and community stakeholders might want to see a two or three year outlook, but the longer the time horizon the greater the degree of uncertainity. one strategy for managing senior leadership expectations is to prepare a budget using low high and medium estimates.
 
-more on budgets here: [https://www.slideshare.net/vdimauro/roadmap-to-building-online-community-48514385](https://www.slideshare.net/vdimauro/roadmap-to-building-online-community-48514385)
 
