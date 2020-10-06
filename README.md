@@ -4,7 +4,7 @@ description: The Comprehensive CMGR Guide
 
 # Introduction
 
-**Welcome to the  CMGR Guide! This is a community initiative managed by** [**Sanmaya Mohanty**](https://www.linkedin.com/in/sanmayamohanty/) **that contains the resources that Community Professionals will need in their journey of building communities and nurturing relationships.** 
+**Welcome to the  CMGR Guide! This is a community repository managed by** [**Sanmaya Mohanty**](https://www.linkedin.com/in/sanmayamohanty/) **that contains the resources that Community Professionals will need in their journey of building communities and nurturing relationships.** 
 
 This guide is aimed at being the single stop solution for everything that a community professional might need in his journey of learning. This is also aimed towards people who want to start a career in community management and want to learn all the ins and outs of community management. 
 
@@ -23,6 +23,14 @@ Try everything, and contribute your learnings back to this guide, or suggest top
 ## License
 
 This CMGR Guide is open-sourced under the [Creative Commons Attribution 4.0 International \(CC-BY 4.0\)](https://creativecommons.org/licenses/by/4.0/) license. See the license file [here](https://github.com/sanmayamohanty/cmgr.page/blob/master/LICENSE.md).
+
+This repository is open-sourced and free to use for everyone in the community. 
+
+{% hint style="success" %}
+If you want a specific to be covered in this guide. Please reach out to [@sanmayamohanty](https://twitter.com/sanmayamohanty) on twitter.
+{% endhint %}
+
+
 
 
 
