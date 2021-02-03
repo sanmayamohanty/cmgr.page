@@ -2,7 +2,7 @@
 description: Basically explaining why this guide exists.
 ---
 
-# motivation behind the Guide
+# Motivation behind the Guide
 
 At the time when I was looking for guidance or specific information while navigating my role as a community professional, I always stumbled upon one difficulty. 
 

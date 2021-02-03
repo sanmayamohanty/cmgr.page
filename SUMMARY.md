@@ -4,7 +4,7 @@
 
 ## 📌 Getting Started <a id="overview"></a>
 
-* [motivation behind the Guide](overview/sd.md)
+* [Motivation behind the Guide](overview/sd.md)
 * [How to use this Guide?](overview/how-to-use-this-guide.md)
 
 ## 🏄🏻‍♂️Community Basics
