@@ -4,7 +4,7 @@ description: Basically explaining why this guide exists.
 
 # motivation behind the Guide
 
-While I was looking for guidance or specific information while navigating as a community professional, I always stumbled upon one difficulty. 
+At the time when I was looking for guidance or specific information while navigating my role as a community professional, I always stumbled upon one difficulty. 
 
 The answer to any specific query is available but you have to search very hard. And most of the time the exact piece of advice that you are looking for is buried in the transcript of a podcast.
 
@@ -36,17 +36,18 @@ Hi, My name is Sanmaya. I am 22.
 * Organized 30+ in person events \(including Hackathons\)
 * Organized 10+ virtual events.
 * Organized India's biggest opensource hackathon \(Hackference\).
-* World Youth Forum 2018 Panellist from India. \(Spoke on youth and entrepreneurship\)
-* HPAIR Harvard 2018 Delegate from India
+* World Youth Forum 2018 Panellist from India. \(Speaker on youth and entrepreneurship\).
+* HPAIR Harvard 2018 Delegate from India.
 
 **Other Experience:**
 
-* Worked as a Product Marketing Manager for Finin \(A neo banking startup in Bengaluru\)
-* Freelanced as a Growth and Social Media consultant
+* Worked as a Product Marketing Manager for Finin \(A neo banking startup in Bengaluru\).
+* Freelanced as a Growth and Social Media consultant.
+* Data Analyst at Upwork.
 
-I am currently looking forward to starting a full-time career as a Community Manager. If you are looking to hire for community roles, where you feel I can add value to your team. Please connect with me.
+I am currently planning to transcend my passion for communities into a full-time CMGR role. 
 
-Email: sanmaya@startupgrind.com
+Email: sanmayamohanty@gmail.com
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/sanmayamohanty/).
 
