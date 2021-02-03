@@ -15,8 +15,6 @@ As this repository grows, we will have a **curated list of community resources**
 During the course of writing this guide, I have listened to **40+ podcasts, 100+ articles, and 3 whitepapers** on community building.
 
 {% hint style="success" %}
-Currently, as the CMX Summit 2020 is going on. I will be making notes on several sessions, keynotes, and workshops and will update it here.
-
 Check back this space for more value-packed community content.
 {% endhint %}
 
