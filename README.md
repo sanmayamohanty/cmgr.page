@@ -24,6 +24,10 @@ Try everything, and contribute your learnings back to this guide, or suggest top
 
 This CMGR Guide is open-sourced under the [Creative Commons Attribution 4.0 International \(CC-BY 4.0\)](https://creativecommons.org/licenses/by/4.0/) license. See the license file [here](https://github.com/sanmayamohanty/cmgr.page/blob/master/LICENSE.md).
 
+## Credits
+
+
+
 This repository is open-sourced and free to use for everyone in the community. 
 
 {% hint style="success" %}
