@@ -6,17 +6,27 @@
 * Is this a community where customers convene around a hobby? Just like Fitbit's community.
 * Is this a support community where people go to get their problems solved?
 
-Once you are certain from your end regarding the community type you are looking to build
+Once you are certain from your end regarding the community type you are looking to build,
 
-Its now time to do a member needs analysis. What your members are looking for from your community.
+It's now time to do a member needs analysis. What your members are looking for from your community.
 
-## Do a Member needs analysis.
+## Perform a Member needs analysis.
 
 People generally form a community to
 
-* **Network and connect:** Network with individuals to find members with shared passions Combat isolation, share emotions, share struggles.
-* **Access tools**: Find resources that allow them to do the job better shorten decision times and decrease risk.
-* **Share knowledge:** Explore ideas and participate in one-on-one discussions or public threads. Access actionable experience-based solutions from like-minded members.
+#### **1. Network and connect**
+
+Network with individuals to find members with shared passions Combat isolation, share emotions, share struggles.
+
+#### **2. Access tools**
+
+Find resources that allow them to do the job better shorten decision times and decrease risk.
+
+#### **3. Share the knowledge:** 
+
+Explore ideas and participate in one-on-one discussions or public threads. Access actionable experience-based solutions from like-minded members.
+
+Make sure that you find the common need/struggle that your members might share.
 
 ## Conduct Community Profiling
 
@@ -34,7 +44,7 @@ Not every answer to your question is readily available. Therefore you have to di
   * Do they want exposure
   * Do they want to Influence others
   * Do they want to shape the industry
-  * are they time crunched? How much time can they devote?
+  * are they time-crunched? How much time can they devote?
 
 * Use this information to craft a compelling community content strategy.
 * you can create micro-niches in your community to further drive engagement.
