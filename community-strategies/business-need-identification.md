@@ -14,7 +14,7 @@ It could be anything, but generally, it is one of the following
 
 Also, this does not stop here. If your business is new to leveraging community, then it might require effort from your end to convince the c-suite and ensure executive buy-in. 
 
-You might want to checkout this article:
+
 
 
 
