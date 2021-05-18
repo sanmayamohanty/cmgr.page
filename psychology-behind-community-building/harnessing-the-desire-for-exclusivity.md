@@ -8,7 +8,7 @@ N26, Dropbox ran some of the most viral product launch campaigns by harnessing t
 
 Human desire is not an autonomous process but a collective one — this is how we decide what we care about. On top of this, life inside the velvet rope is, well, pretty good. 
 
-There’s a real, psychological fulfillment of being “in” with the crowd and stoking envy among those around you. 
+There’s a real, psychological fulfilment of being “in” with the crowd and stoking envy among those around you. 
 
 ## How do you leverage the desire for exclusivity?
 
