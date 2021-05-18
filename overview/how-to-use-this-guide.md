@@ -9,18 +9,18 @@ description: >-
 {% hint style="warning" %}
 Since this guide is under creation, some of the topics are yet to be populated with content. 
 
-To make it easier for readers, I have marked the pages which are not yet completed with \[WIP\] tag: denoting work in progress.
+To make it easier for readers, I have marked the pages which are not yet completed with the \[WIP\] tag: denoting work in progress.
 
-If you find any errors in the repository, kindly reachout so that it can be rectified.
+If you find any errors in the repository, kindly reach out to me so that I can rectify it.
 
 I would love to know your feedback on the guide.
 {% endhint %}
 
 
 
-If you are a **new to community building** then start out with:
+If you are **new to community building** then start out with:
 
-After that it is important to understand the business outcomes of community:
+After that it is important to understand the business outcomes of the community:
 
 If you are looking to know more about metrics then head over to:
 

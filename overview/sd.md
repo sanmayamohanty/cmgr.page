@@ -6,9 +6,9 @@ description: Basically explaining why this guide exists.
 
 At the time when I was looking for guidance or specific information while navigating my role as a community professional, I always stumbled upon one difficulty. 
 
-The answer to any specific query is available but you have to search very hard. And most of the time the exact piece of advice that you are looking for is buried in the transcript of a podcast.
+The answer to any specific query is available but you have to search very hard. And most of the time the exact piece of advice that you are looking for is buried within the transcript of a podcast.
 
-So I have tried to create a single repository for all things related to community building.
+So I have tried to create a single repository for all things related to community building. All tagged according to their individual categories.
 
 As this repository grows, we will have a **curated list of community resources** all segmented into requisite groups. The entire repository is searchable and anyone can find the best practices related to a specific field in no time, skim through the notes and decide on what steps to take further. 
 
@@ -20,7 +20,7 @@ Check back this space for more value-packed community content.
 
 
 
-If you want to get your talk to be covered here, reach out to @sanmayamohanty on twitter.
+If you want to get your talk to be covered here, reach out to [@sanmayamohanty](https://twitter.com/sanmayamohanty) on Twitter.
 
 Comments and Feedbacks are always appreciated.
 
@@ -30,28 +30,34 @@ Comments and Feedbacks are always appreciated.
 
 Hi, My name is Sanmaya. I am 22.
 
+I am a passionate community builder, data-nerd and dog lover.
+
 **Community Experience:**
 
-* Startup Grind chapter directer \(SGu\) since 2018.
-* Organized 30+ in person events \(including Hackathons\)
+* Director SG JAI Chapter - Startup Grind \(Google for Startups\)
+* Regional Mentor \(Technical Education\) - AIM, Govt. of India
+* Managed AIM's regional community \(Odisha State\) & educated 900+ youth in ATL on Python, Git & Data Visualisation.
+* Organized 30+ in-person events \(including Hackathons\)
 * Organized 10+ virtual events.
-* Organized India's biggest opensource hackathon \(Hackference\).
-* World Youth Forum 2018 Panellist from India. \(Speaker on youth and entrepreneurship\).
-* HPAIR Harvard 2018 Delegate from India.
+* Organized India's biggest open-source hackathon \(Hackference\).
 
-**Other Experience:**
 
+
+* **Other Experience:**
 * Worked as a Product Marketing Manager for Finin \(A neo banking startup in Bengaluru\).
-* Freelanced as a Growth and Social Media consultant.
-* Data Analyst at Upwork.
+* Independent Freelancer \(Data Engineering\) - Toptal/Upwork
+
+
 
 I am currently planning to transcend my passion for communities into a full-time CMGR role. 
 
-Email: sanmayamohanty@gmail.com
+Always on the lookout for great CMGR opportunities. Reach out to me via ⬇️
+
+Email: [sanmayamohanty@gmail.com](mailto:sanmayamohanty@gmail.com?subject=Talking%20about%20CMGR%20Page&body=Hi%20Sanmaya%2C)
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/sanmayamohanty/).
 
-Talk to me on twitter @sanmayamohanty.
+Find me on Twitter [@sanmayamohanty](https://twitter.com/sanmayamohanty)
 
 \*\*\*\*
 
