@@ -6,16 +6,16 @@ description: The Comprehensive CMGR Guide
 
 **Welcome to the  CMGR Guide! This is a community repository managed by** [**Sanmaya Mohanty**](https://www.linkedin.com/in/sanmayamohanty/) **that contains the resources that Community Professionals will need in their journey of building communities and nurturing relationships.** 
 
-This guide is aimed at being the single stop solution for everything that a community professional might need in his journey of learning. This is also aimed towards people who want to start a career in community management and want to learn all the ins and outs of community management. 
+This guide is aimed at being the one-stop solution for everything that a community professional might need in his journey of learning. This is also aimed towards people who want to start a career in community management and want to learn all the ins and outs of community management. 
 
 This guide is an effort to assimilate a lot of lessons that community professionals around the world have learned from building and engaging communities -- all in a single CMGR Playbook.
 
 
 
 {% hint style="info" %}
-**Disclaimer:** This is a living guide and is therefore never finished. It's an ongoing project that we are always trying to update and improve as we and the global community of CMGR professionals learn and evolve. 
+**Disclaimer:** This is a living guide and is therefore never finished. It's an ongoing project that I am always trying to update and improve. Currently, some sections are labelled Work-In-Progress \[WIP\]. 
 
-Try everything, and contribute your learnings back to this guide, or suggest topics that we should cover. Please check our roadmap to know what we are working on. If you're interested in contributing towards this guide or suggesting topics, reach out to us.
+Try everything, and contribute your learnings back to this guide, or suggest topics that I should cover. Please check the roadmap to know what we are working on. If you're interested in contributing to this guide or suggesting topics, reach out to us.
 {% endhint %}
 
 
@@ -31,7 +31,7 @@ This CMGR Guide is open-sourced under the [Creative Commons Attribution 4.0 Inte
 This repository is open-sourced and free to use for everyone in the community. 
 
 {% hint style="success" %}
-If you want a specific to be covered in this guide. Please reach out to [@sanmayamohanty](https://twitter.com/sanmayamohanty) on twitter.
+If you want a specific to be covered in this guide. Please reach out to [@sanmayamohanty](https://twitter.com/sanmayamohanty) on Twitter.
 {% endhint %}
 
 
