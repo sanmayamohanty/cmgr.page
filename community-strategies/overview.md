@@ -2,11 +2,7 @@
 
 There are three basic things you need to consider while developing a community Strategy: 
 
-**Listen**, 
-
-**Learn**, 
-
-**Launch**.
+**Listen**, **Learn**, **Launch**.
 
 Any community strategy would essentially revolve around 3 tiers.
 
@@ -24,7 +20,7 @@ Any community strategy would essentially revolve around 3 tiers.
 
 
 
-### 3. A measurement framework to track the success of efforts.
+### 3. A Measurement Framework to track the success of efforts.
 
 {% page-ref page="defining-measurement-framework.md" %}
 
